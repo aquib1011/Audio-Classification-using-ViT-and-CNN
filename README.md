@@ -1,4 +1,4 @@
-# Vision Transformer and CNN on GTZAN
+# Vision Transformer and CNN on GTZAN Dataset
 
 ## Overview
 This research project focuses on evaluating deep learning models for music genre classification using the GTZAN dataset. The dataset has been transformed into mel spectrograms to align with human auditory perception. 
